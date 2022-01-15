@@ -2,7 +2,7 @@
 
 
 ## Problem Statement
-We have predict the medical insurance cost based on certain feature available in the dataset.
+We have to predict the medical insurance cost based on certain feature available in the dataset.
 
 ## Dataset
 I found this dataset in an competation.
